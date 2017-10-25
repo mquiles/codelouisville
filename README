@@ -1,0 +1,19 @@
+Code Louisville Project
+
+The website is a basic responsive portfolio that displays some of the websites that
+I have developed and designed in the past. Some of the technologies used in the site include jQuery, Bootstrap, media queries, modal dialog boxes.
+
+-- Instructions
+
+1. Open the index.html file and go to town!
+
+Checklist - items included
+    ReadMe
+    Comments
+    Custom CSS
+    Custom Javascript
+    Responsive
+    Interactive form "displays a message simulating that the message has been sent."
+
+Pending
+    Push to Github
