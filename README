@@ -12,7 +12,7 @@ Although the site seems simple and I could have done something larger, I decided
 Checklist - items included
     ✓ReadMe
     ✓Comments
-    ✓Custom CSS
+    ✓Custom CSS 
     ✓Custom Javascript
     ✓Responsive
     ✓Interactive form " submission displays a message simulating that the message has been sent."
@@ -20,4 +20,5 @@ Checklist - items included
 
     Extra 
       ✓Cross browser functionality
+      ✓Minified CSS -- original is commented out in the HTML file and the original is in the CSS folder
 
