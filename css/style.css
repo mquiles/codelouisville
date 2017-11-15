@@ -73,6 +73,10 @@ hr.star:after {
 	background: #34495e;
 	border-bottom: 5px solid #e67e22;	
 }
+
+.navbar-brand{
+	margin-bottom: 30px;
+}
 /* Header Styling */
 #header {
 	background-color: #ecf0f1;
